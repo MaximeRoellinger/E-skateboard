@@ -1,1 +1,1 @@
-# Im Rahmen von unsere 5. Semesterprojekt haben wir ein E-skateboard gebaut.
+# glove-controlled electric skateboard with 2 ESP 
